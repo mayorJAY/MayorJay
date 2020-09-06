@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Developer. I have about 3 years of experience in the programming world, 2 years of experience in Android Development (1 year professional). I'm currently a Software Engineer (Android) at [Seamfix](https://github.com/seamfix/) and a Volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics). I am a Co-founder at [RideHub360 Ltd](https://ridehub360.com/)
+I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Developer. I have about 3 years of experience in the programming world, 2 years of experience in Android Development (1 year professional). I'm currently a Software Engineer (Android) at [Seamfix](https://github.com/seamfix/), a Volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and a Co-founder at [RideHub360 Ltd](https://ridehub360.com/)
 
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently developing my Kotlin skills
