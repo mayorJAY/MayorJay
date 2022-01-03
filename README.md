@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Developer. I'm currently a Software Engineer (Android) at [Seamfix](https://github.com/seamfix/), a Volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and a Co-founder at [RideHub360 Ltd](https://ridehub360.com/)
+I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Developer. I'm currently a Software Engineer (Android) at [Seamfix](https://github.com/seamfix/), an ex-volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and a Co-founder at [RideHub360 Ltd](https://ridehub360.com/)
 
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently developing my Kotlin skills
