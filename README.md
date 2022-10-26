@@ -10,7 +10,7 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Develop
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not coding, I'm probably cycling, catching fun or at the Gym
 
-### Tools and Languages
+### Technologies and Tools
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -19,6 +19,7 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Develop
   ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
