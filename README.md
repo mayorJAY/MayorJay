@@ -22,7 +22,3 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified Associate Android Develop
   ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-
-### Github Statistics
-<p align = "left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mayorJAY&theme=chartreuse-dark&hide_border=true" width = 400>
