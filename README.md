@@ -9,6 +9,7 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Develo
 - 📫 How to reach me: [Twitter](https://twitter.com/mayorjay1), [LinkedIn](https://www.linkedin.com/in/joseph-olugbohunmi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not coding, I'm probably cycling, catching fun, at the Gym or building something novel
+- 🎱 Holopin Badges: [Holopin](https://www.holopin.io/@mayorjay#badges)
 
 ### Technologies and Tools
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
