@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Developer](https://bit.ly/JO-AAD). I am currently a Software Engineer at [Pixida](https://github.com/Pixida), ex-[Software Engineer](https://github.com/sfxjolugbohunmi) at [Seamfix](https://github.com/seamfix/) and an ex-volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics)
+I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Developer](https://bit.ly/JO-AAD). I am currently a Software Engineer at [Pixida](https://github.com/Pixida), ex-[Software Engineer](https://github.com/sfxjolugbohunmi) at [Seamfix](https://github.com/seamfix/), an ex-volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and an avid open-source contributor.
 
-- 🔭 I’m currently working mainly on Android and backend projects. I document my findings on [Medium](https://olugbohunmijoseph.medium.com/) and on [Dev](https://dev.to/mayorjay)
+- 🔭 I’m currently working mainly on Android, backend and open-source projects. I document my findings on [Medium](https://olugbohunmijoseph.medium.com/) and on [Dev](https://dev.to/mayorjay)
 - 🌱 I’m currently playing around with Jetpack Compose and Spring Boot
 - 💻 Languages: Kotlin, Java, Python and TypeScript
-- 👯 I’m looking to collaborate on open-source projects. My [contributions](https://gist.github.com/mayorJAY/84e687715857f4cb3f5e1ce46fe5e6fa) so far 🚀
+- 👯 I’m looking to collaborate on more open-source projects. My [contributions](https://gist.github.com/mayorJAY/84e687715857f4cb3f5e1ce46fe5e6fa) so far 🚀
 - 💬 Ask me about Android, Cycling
 - 📫 How to reach me: [Twitter](https://twitter.com/mayorjay1), [LinkedIn](https://www.linkedin.com/in/joseph-olugbohunmi/)
 - 😄 Pronouns: He/Him
