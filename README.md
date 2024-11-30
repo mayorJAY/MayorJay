@@ -10,6 +10,7 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Develo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not coding, I'm probably cycling, catching fun, at the Gym or building something novel
 - 🎱 Holopin Badges: [Holopin](https://www.holopin.io/@mayorjay#badges)
+- 🕟 ![](https://komarev.com/ghpvc/?username=mayorjay&label=Profile+Views)
 
 ### Technologies and Tools
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
@@ -23,3 +24,15 @@ I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Develo
   ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+
+### Pinned Repositories
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=StackOverflow-Community-Version&description_lines_count=3)](https://github.com/mayorJAY/StackOverflow-Community-Version)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=HolidayInfo&description_lines_count=3)](https://github.com/mayorJAY/HolidayInfo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=novu-java&description_lines_count=3)](https://github.com/novuhq/novu-java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=novuhq&repo=novu-kotlin&description_lines_count=3)](https://github.com/novuhq/novu-kotlin)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=HelloCompose&description_lines_count=3)](https://github.com/mayorJAY/HelloCompose)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=BasicStateCompose&description_lines_count=3)](https://github.com/mayorJAY/BasicStateCompose)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mayorjay&repo=pet-api-service&description_lines_count=3)](https://github.com/mayorJAY/pet-api-service)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=enyason&repo=replicate-kotlin&description_lines_count=3)](https://github.com/enyason/replicate-kotlin)
