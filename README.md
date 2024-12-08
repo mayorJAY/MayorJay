@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Associate Android Developer](https://bit.ly/JO-AAD). I am currently a Software Engineer at [Pixida](https://github.com/Pixida), ex-[Software Engineer](https://github.com/sfxjolugbohunmi) at [Seamfix](https://github.com/seamfix/), an ex-volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and an avid open-source contributor.
+I am Joseph "MayorJay" Olugbohunmi, a Google Certified [Android Developer](https://bit.ly/JO-AAD) and Backend Developer. I am currently a Software Engineer at [Pixida](https://github.com/Pixida), ex-[Software Engineer](https://github.com/sfxjolugbohunmi) at [Seamfix](https://github.com/seamfix/), an ex-volunteer Android Engineer at [Fightpandemics](https://github.com/fightpandemics) and an avid open-source contributor.
 
 - 🔭 I’m currently working mainly on Android, backend and open-source projects. I document my findings on [Medium](https://olugbohunmijoseph.medium.com/) and on [Dev](https://dev.to/mayorjay)
 - 🌱 I’m currently playing around with Jetpack Compose and Spring Boot
